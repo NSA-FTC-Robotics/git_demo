@@ -1,5 +1,6 @@
 # Prep
 
+- Wifi password
 - Ensure GitHub accounts
 - Ensure Android Studio
 - Ensure GitHub Desktop
