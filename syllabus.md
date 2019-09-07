@@ -1,6 +1,7 @@
 # Prep
 
 - Wifi password
+>*delphi Guest*: **AliasFeederCommas865**
 - Ensure GitHub accounts
 - Ensure Android Studio
 - Ensure GitHub Desktop
